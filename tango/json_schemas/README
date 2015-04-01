@@ -1,0 +1,4 @@
+These JSON schemas are from the TangoCard RAAS API repo:
+https://github.com/tangocarddev/RaaS
+
+That repo isn't actually a client implementation, it just has some instructions and useful json schemas.
